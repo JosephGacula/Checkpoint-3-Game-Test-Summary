@@ -36,3 +36,11 @@ Note: Subject was not too familiar with games in general. Spend a lot of time tr
 The most common points of feedback was that the controls need work and more assets (sprites, animations, backgrounds) need to be created. In termss of controls, they are far to sensitive. Combined with the bug of enemies moving when pressed up against, this made it hard for them to try and kill things on first attempt. We will need to add gamepad support and polish physics to amend this problem. In terms of animations there was confusion on if they actually took damage or not. Sprites still need to be created for the enemies. Damage and death animations, as well as audio indicators of these will be added to fix this.
 
 ## Comparison with Teammate of Findings and Patterns.
+When comparing with my partners test feedback, we had a lot of common points. The first relates to the controls. Issues included the controls not being intuitive and hard to get used to on mouse and keyboard. Specific actions like jumping and color switching also were easily performable. Clarity and sensitivity will be have to be amended. We do intend on making this game playable with a gamepad so this should alleviate much of the issues.
+
+Another common point was the lack of visual feedback. It is currentlly hard to tell what enemies are, a lack of damage indicators or other audio and visual feedback, and no visual indicator of what color is equipped. Once more sprites are created we can address these issues.
+
+A third point of common feedback was confusion on the objective and mechanics. Although the instructions are displayed in the background, most testers did not read them before being prompted. A proper tutorial should be implemented rather than just a test level. This could either be integrated at the beggining or made a separate scene.
+
+Overall, the functionality of the game is there, we just need to make it more intuitive and convey the vision better with media integration and proper controls.
+
